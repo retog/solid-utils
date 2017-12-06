@@ -5,7 +5,7 @@ A library with utilities to write [Solid](https://solid.mit.edu/) apps.
 ## Requirements
 
  * [rdflib.js](https://github.com/linkeddata/rdflib.js)
- * [SolidAuthClient]https://github.com/solid/solid-auth-client), for convenience 
+ * [SolidAuthClient](https://github.com/solid/solid-auth-client), for convenience 
 this is available in this repository at [lib/solid-auth-client-bundle.js](lib/solid-auth-client-bundle.js).
 
 ## Usage
